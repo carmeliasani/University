@@ -4,3 +4,4 @@ This course introduces the fundemental ideas of information system and technolog
 
 ## Topic Covered
 Chapter 1: Emerging Technology in Information Communicatiom Technology (ICT)
+Chapter 2: Hardware 2024
